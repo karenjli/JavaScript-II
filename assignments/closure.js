@@ -1,7 +1,10 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
-
-
+const cartoon = "kuromi";
+function halloweenDress () {
+  return `Karen will dress up as ${cartoon}`;
+}
+console.log(halloweenDress(cartoon))
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
 
